@@ -15,7 +15,7 @@ This repo relies on the following python dependancy:
 * pydicom
 * numpy
 * Pillow
-* cv2
+* OpenCV2
 
 
 ## How to run the ccode
