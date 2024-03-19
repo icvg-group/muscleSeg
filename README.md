@@ -1,5 +1,5 @@
 # muscleSeg
-This repo provide the inference pipeline of our muscle segmetation model. The input is any abdominal CT, at L3 level, and the output is the mask for the following muscle regions:
+In this repo we provide the inference pipeline of our muscle segmetation model. The input is any abdominal CT, at L3 level, and the output is the mask for the following muscle regions:
 1. rectus abdominus muscle
 2. trans abd,int and ext obl
 3. psoas major mucle
