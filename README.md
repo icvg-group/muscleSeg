@@ -1,5 +1,5 @@
 # muscleSeg
-In this repo we provide the inference pipeline of our muscle segmetation model. The inputs are any abdominal CT, at L3 level, with size 512×512, and the output is the predictions of the masks for the following muscle regions:
+In this repo we provide the inference pipeline of our muscle segmetation model. The inputs are any abdominal CT, at L3 level, with size 512×512, and the output is the predictions of the masks for the following muscle regions and the Vertebral body:
 1. rectus abdominus muscle
 2. trans abd,int and ext obl
 3. psoas major mucle
