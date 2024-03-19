@@ -6,7 +6,13 @@ This repo provide the inference pipeline of our muscle segmetation model. The in
 4. quardratus lumborum muscle
 5. eretor spinae muscle
 6. L3 Vertebral body
-   
+
+## Prerequirement
+This repo requires the following python dependancy:
+* pytorch>=1.8
+* torchvision
+* segmentation-models-pytorch==0.3.2
+
 ## How to run the ccode
 Simply execute the command line  script `python muscleSeg [device] [dicom file]`
 
