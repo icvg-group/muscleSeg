@@ -8,10 +8,15 @@ This repo provide the inference pipeline of our muscle segmetation model. The in
 6. L3 Vertebral body
 
 ## Prerequirement
-This repo requires the following python dependancy:
+This repo relies on the following python dependancy:
 * pytorch>=1.8
 * torchvision
 * segmentation-models-pytorch==0.3.2
+* pydicom
+* numpy
+* Pillow
+* cv2
+
 
 ## How to run the ccode
 Simply execute the command line  script `python muscleSeg [device] [dicom file]`
